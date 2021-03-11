@@ -52,3 +52,18 @@ justify-content: space-between;
 #cabecera #tagline{
     color: orange;
 }
+
+
+/* FOOTER */
+
+.footer{
+    background-color: darkslategray;
+    text-align: center;
+    padding: 1em;
+}
+
+.footer p {
+    color: white;
+    font-size: 20px;
+    
+}
